@@ -4,5 +4,5 @@ Here are some python related ideas or investigations. Feel free to improve on ex
 
 Thank you! :) 
 
-Best Regards
+Warmest Regards/n
 Lee Jia You Greg
